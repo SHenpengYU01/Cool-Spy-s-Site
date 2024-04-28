@@ -1,0 +1,18 @@
+site_name: Cool Spy's Site
+nav:
+  - Home: home.md
+  - Study: 
+    - Maths:
+      - Linear Algebra: study/math/linear algebra.md
+      - Mathematics Analysis: study/math/mathematics analysis.md
+      - Discrete Mathematics: study/math/discrete math.md
+    - Computer Science: 
+      - Datestructure: study/cs/datastructure.md
+  - Animation: Animation/animation.md
+  - About: about.md
+theme:
+  name: material
+  palette: 
+    scheme: default
+    primary: light green
+    accent: indigo
